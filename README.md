@@ -1,6 +1,8 @@
 ![preview img](./src/assets/quizical-preview.png)
 
 # Quizzical
+## [Live Demo](https://jon-quizzical.netlify.app/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/1276ca9e-1fc5-4743-88a3-06c66cfab45f/deploy-status)](https://app.netlify.com/sites/jon-quizzical/deploys)
 ---
 
 ## **Description:**
